@@ -1,6 +1,12 @@
 #include<stdio.h>  
 #include <string.h>   
 
+// test the app
+// test the app
+// test the app
+// test the app
+// test the app
+
 struct student{    
    int rollno;    
    char name[10];    
